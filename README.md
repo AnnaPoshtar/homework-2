@@ -1,1 +1,174 @@
 # homework-2
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebStudio</title>
+    <header>
+      <nav>
+        <a href="./index.html"
+          >WebStudio
+        </a>
+        <ul>
+            <li>
+              <a href="">Studio</a>
+            </li>
+            <li>
+              <a href="">Portfolio</a>
+            </li>
+            <li>
+              <a href="">Contacts</a>
+            </li>
+          </ul>
+          <address>
+            <ul>
+                <li><a href="mailto:info@devstudio.com">info@devstudio.com</a>
+                </li>
+                <li><a href="tel:+110001111111">+11 (000) 111-11-11</a>
+                </li>
+            </ul>
+        </address>
+        <h1>Effective Solutions
+            for Your Business</h1>
+            <button type="button">Order Service</button>
+            <h2>Strategy</h2>
+            <p>
+                Our goal is to identify the business
+problem to walk away with the perfect and creative solution. 
+            </p>
+          </li>
+            <h2>Punctuality</h2>
+            <p>
+                Bring the key message to the brand's audience for the best price within the shortest possible time.↩
+            </p>
+            <h2>Diligence</h2>
+            <p>
+                Research and confirm brands that present the strongest digital growth opportunities and minimize risk.↩
+            </p>
+          </li>
+            <h2>Technologies</h2>
+            <p>
+                Design practice focused on digital experiences. We bring forth a deep passion for problem-solving.↩
+            </p>
+            <h2>Our Team</h2>
+            <h3>Mark Guerrero</h3>
+            <p>
+                Product Designer 
+            </p>
+          </li>
+            <li>
+            <img
+              src="images/img-min.jpg"
+              alt="Mark Guerrero"
+              width="264"
+              height="260"
+            />
+            <h3>Tom Ford</h3>
+            <p>
+                Frontend Developer 
+            </p>
+          </li>
+          <li>
+            <img
+              src="images/img (1)-min.jpg"
+              alt="Tom Ford"
+              width="264"
+              height="260"
+            />
+            <h3>Camila Garcia</h3>
+            <p>
+                Marketing
+            </p>
+          </li>
+          <li>
+            <img
+              src="images/img (2)-min.jpg"
+              alt="Camila Garcia"
+              width="264"
+              height="260"
+            />
+            <h3>Daniel Wilson</h3>
+            <p>
+                UI Designer
+            </p>
+          </li>
+          <li>
+            <img
+              src="images/img (3)-min.jpg"
+              alt="Daniel Wilson"
+              width="264"
+              height="260"
+            />
+            <h2>Our Portfolio</h2>
+          
+                <img
+                  src="images/img (4)-min.jpg"
+                  alt="Banking App"
+                  width="360"
+                  height="300"
+            />
+            <h3>Banking App</h3>
+            <p>
+                App
+            </p>
+                <li>
+                    <img
+                      src="images/img (5)-min.jpg"
+                      alt="Cashless Payment"
+                      width="360"
+                      height="300"
+                    />
+                    <h3>Cashless Payment</h3>
+                    <p>
+                        Marketing
+                    </p>
+                    <li>
+                        <img
+                          src="images/img (6)-min.jpg"
+                          alt="Meditation App"
+                          width="360"
+                          height="300"
+                        />
+                        <h3>Meditation App</h3>
+                        <p>
+                            App
+                        </p>
+                        <li>
+                            <img
+                              src="images/img (7)-min.jpg"
+                              alt="Taxi Service"
+                              width="360"
+                              height="300"
+                            />
+                            <h3>Taxi Service</h3>
+                            <p>
+                                Marketing
+                            </p>
+                            <li>
+                                <img
+                                  src="images/img (8)-min.jpg"
+                                  alt="Screen Illustrations"
+                                  width="360"
+                                  height="300"
+                                />
+                                <h3>Screen Illustrations</h3>
+                                <p>
+                                    Design
+                                </p>
+                            <li>
+                                <img
+                                  src="images/img (9)-min.jpg"
+                                  alt="Online Courses"
+                                  width="360"
+                                  height="300"
+                                />
+                                <h3>Online Courses</h3>
+                                <p>
+                                    Marketing
+                                </p>
+                                <h2>WebStudio</h2>
+                                <p>
+                                    Increase the flow of customers and sales for your business with digital marketing & growth solutions.
+                                </p>
+                                    
